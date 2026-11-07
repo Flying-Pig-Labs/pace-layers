@@ -1,0 +1,16 @@
+{
+  "name": "pace-layers",
+  "owner": {
+    "name": "Flying Pig Labs"
+  },
+  "description": "Skills for planning change in software organizations with a pace-layer model.",
+  "plugins": [
+    {
+      "name": "pace-layers",
+      "source": "./",
+      "description": "Gather the situation, pin the goal to a pace layer, interview that layer, check the boundaries, and leave with a plan document and the people to bring into the room.",
+      "category": "productivity",
+      "tags": ["planning", "change-management", "engineering-leadership", "ai-adoption"]
+    }
+  ]
+}

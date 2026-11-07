@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 586" width="900" height="586" role="img" aria-labelledby="t d">
+<title id="t">The pace-layer stack</title>
+<desc id="d">Eight layers of a software organization, fastest at top (Generation) to slowest at bottom (Nature), with seven shears S1–S7 between adjacent layers and the AI capability frontier acting on all of them.</desc>
+<style>
+.ink{fill:#1f2328}.mute{fill:#59636e}.rule{stroke:#59636e}
+@media (prefers-color-scheme: dark){.ink{fill:#e6edf3}.mute{fill:#9198a1}.rule{stroke:#9198a1}}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.n{font-size:13px;font-weight:700;fill:#1f2328;opacity:.55}.l{font-size:15px;font-weight:600;fill:#1f2328}
+.c{font-size:12.5px;fill:#1f2328;opacity:.75}.s{font-size:11px;font-weight:700;letter-spacing:.06em}
+.cap{font-size:11px;font-weight:700;letter-spacing:.14em}
+</style>
+<rect x="130.0" y="22" width="640" height="40" rx="20" fill="none" class="rule" stroke-width="1.5" stroke-dasharray="5 5"/>
+<text x="450" y="47" text-anchor="middle" class="ink" font-size="13.5" font-weight="600">⚡ AI capability frontier — a forcing field on every layer at once</text>
+<rect x="170.0" y="92" width="560" height="46" rx="10" fill="#FCD34D"/>
+<text x="188.0" y="121" class="n">1</text>
+<text x="210.0" y="121" class="l">Generation</text>
+<text x="712.0" y="121" text-anchor="end" class="c">seconds – hours  ·  reform weeks</text>
+<line x1="840" y1="144.0" x2="854" y2="144.0" class="rule" stroke-width="1.5"/>
+<text x="859" y="148.0" class="s mute">S1</text>
+<rect x="157.0" y="150" width="586" height="46" rx="10" fill="#FDBA74"/>
+<text x="175.0" y="179" class="n">2</text>
+<text x="197.0" y="179" class="l">Integration &amp; Verification</text>
+<text x="725.0" y="179" text-anchor="end" class="c">minutes – days  ·  reform 2–4 quarters</text>
+<line x1="840" y1="202.0" x2="854" y2="202.0" class="rule" stroke-width="1.5"/>
+<text x="859" y="206.0" class="s mute">S2</text>
+<rect x="144.0" y="208" width="612" height="46" rx="10" fill="#FCA5A5"/>
+<text x="162.0" y="237" class="n">3</text>
+<text x="184.0" y="237" class="l">Product &amp; Coordination</text>
+<text x="738.0" y="237" text-anchor="end" class="c">weeks – a quarter  ·  reform 2–4 quarters</text>
+<line x1="840" y1="260.0" x2="854" y2="260.0" class="rule" stroke-width="1.5"/>
+<text x="859" y="264.0" class="s mute">S3</text>
+<rect x="131.0" y="266" width="638" height="46" rx="10" fill="#F9A8D4"/>
+<text x="149.0" y="295" class="n">4</text>
+<text x="171.0" y="295" class="l">Platform &amp; Infrastructure</text>
+<text x="751.0" y="295" text-anchor="end" class="c">weeks – months  ·  reform 1–2 years</text>
+<line x1="840" y1="318.0" x2="854" y2="318.0" class="rule" stroke-width="1.5"/>
+<text x="859" y="322.0" class="s mute">S4</text>
+<rect x="118.0" y="324" width="664" height="46" rx="10" fill="#C4B5FD"/>
+<text x="136.0" y="353" class="n">5</text>
+<text x="158.0" y="353" class="l">Domain Architecture &amp; Systems of Record</text>
+<text x="764.0" y="353" text-anchor="end" class="c">years  ·  reform 3–7 years</text>
+<line x1="840" y1="376.0" x2="854" y2="376.0" class="rule" stroke-width="1.5"/>
+<text x="859" y="380.0" class="s mute">S5</text>
+<rect x="105.0" y="382" width="690" height="46" rx="10" fill="#A5B4FC"/>
+<text x="123.0" y="411" class="n">6</text>
+<text x="145.0" y="411" class="l">Governance</text>
+<text x="777.0" y="411" text-anchor="end" class="c">annual cycles  ·  reform 1–3 years</text>
+<line x1="840" y1="434.0" x2="854" y2="434.0" class="rule" stroke-width="1.5"/>
+<text x="859" y="438.0" class="s mute">S6</text>
+<rect x="92.0" y="440" width="716" height="46" rx="10" fill="#93C5FD"/>
+<text x="110.0" y="469" class="n">7</text>
+<text x="132.0" y="469" class="l">Organizational Culture</text>
+<text x="790.0" y="469" text-anchor="end" class="c">years  ·  reform 3–7 years</text>
+<line x1="840" y1="492.0" x2="854" y2="492.0" class="rule" stroke-width="1.5"/>
+<text x="859" y="496.0" class="s mute">S7</text>
+<rect x="79.0" y="498" width="742" height="46" rx="10" fill="#86EFAC"/>
+<text x="97.0" y="527" class="n">8</text>
+<text x="119.0" y="527" class="l">Nature</text>
+<text x="803.0" y="527" text-anchor="end" class="c">fixed  ·  design within it</text>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="mute"/></marker></defs>
+<line x1="46" y1="128" x2="46" y2="508" class="rule" stroke-width="1.5" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<text x="46" y="110" text-anchor="middle" class="cap ink">FAST</text>
+<text x="46" y="540" text-anchor="middle" class="cap ink">SLOW</text>
+<text transform="translate(36 318.0) rotate(-90)" text-anchor="middle" class="mute" font-size="11.5">learns · proposes</text>
+<text transform="translate(64 318.0) rotate(-90)" text-anchor="middle" class="mute" font-size="11.5">remembers · decides</text>
+</svg>

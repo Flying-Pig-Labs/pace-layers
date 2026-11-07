@@ -1,0 +1,22 @@
+{
+  "name": "pace-layers",
+  "displayName": "Pace Layers",
+  "version": "0.1.0",
+  "description": "Plan organizational change at the speed each layer can move. Guided skills that gather the situation, pin the goal to a pace layer, interview that layer, check the boundaries between layers, and produce a plan document plus the people to bring into the room.",
+  "author": {
+    "name": "Flying Pig Labs"
+  },
+  "license": "MIT",
+  "keywords": [
+    "pace-layers",
+    "change-management",
+    "engineering-leadership",
+    "sdlc",
+    "ai-adoption",
+    "planning",
+    "stewart-brand",
+    "war-room"
+  ],
+  "homepage": "https://github.com/Flying-Pig-Labs/pace-layers",
+  "repository": "https://github.com/Flying-Pig-Labs/pace-layers"
+}
